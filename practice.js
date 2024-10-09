@@ -11,10 +11,8 @@
 
 // 2.1 find a movie poster you like and add it as an <img> inside the movie-posters div
 
-// 2.2 beneath each <img> add the movie title as an <h2>
-
-// 2.3 further refine the movie posters:
-// change it so each movie poster gets its own <div> which includes the poster <img>, the title <h2> and a short description <p>
+// 2.2 further refine the movie posters:
+// change it so each movie poster is a <div> which has children for the poster <img>, the title <h2> and a short description <p>
 
 // 4. console.log the title and description for the first movie poster
 
